@@ -1,0 +1,109 @@
+body
+{
+    font-size: 20px;
+}
+.navul
+{
+   display: flex;
+   justify-content: space-around;
+   list-style-type: none;
+   height: 100px;
+   align-items: center;
+
+}
+
+h1
+{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 120px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2
+{
+    text-align: center;
+}
+
+.background
+{
+    background-color: burlywood;
+    height: 600px;
+    width: 400px;
+    
+    
+}
+.box
+{
+    background-color: burlywood;
+    width: 80%;
+    margin: auto;
+    height: 400px;
+    z-index: 1;
+   
+    ;
+}
+
+.brandsub
+{
+    margin-bottom: 40px;
+    
+}
+
+.description {
+
+    display: flex;
+    justify-content: center;
+
+}
+.pdescription
+
+{
+    width: 30%;
+    text-align: center;
+    
+}
+
+.article1and2
+{
+    display: flex;   
+    justify-content: space-between;
+    align-content: space-between;
+    margin: auto;
+    height: 700px;
+    flex-flow: column wrap;
+    align-items: center;
+    
+}
+.article1 , .article2, .article3, .article4
+{
+    width: 30%;
+    height: 40%;
+   border: solid 1px gray;
+    margin: 30px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    font-size: xx-large;
+    font-style: italic;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    border-radius: 6px;
+}
+
+p
+{
+    margin: 3px;
+}
+
+
+
+
+   
+
+    
+    
+    
+    
+
+
+
